@@ -1,2 +1,1 @@
-#TESTE
-UM TESTE DE SUBIR APLICAÇÕES PARA O GITHUB.
+Teste para subir aplicações no github.
